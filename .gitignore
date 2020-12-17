@@ -1,0 +1,6 @@
+# csv files
+**.csv
+
+# cache files
+.RData
+.Rhistory
